@@ -1,0 +1,6 @@
+train: E:\Data\Code\RK3588\rice_pest\rice_pest_datasets\images\train
+val: E:\Data\Code\RK3588\rice_pest\rice_pest_datasets\images\val
+test: # test images (optional)
+
+# Classes
+names: ['green-leafhopper', 'leaf-folder', 'rice-bug', 'stem-borer', 'whorl-maggot']
