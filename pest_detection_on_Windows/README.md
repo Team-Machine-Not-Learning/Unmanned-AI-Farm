@@ -26,5 +26,3 @@ python版本3.9
 （四）模型应用
     打开gui_chinese.py文件，修改此文件的类class Controller中的model_path模型权重路径，并运行此文件即可使用训练好的模型
 
-（五）注意事项
-    如果运行gui_chinese.py文件弹出的界面出现中文乱码，可运行英文版的界面gui_english.py
