@@ -27,7 +27,7 @@ CONF_THRESHOLD = 0.3
 NMS_THRESHOLD = 0.45
 REG_MAX = 16
 CAMERA_INDEX = 0  # <<<--- IMPORTANT: Set this to your RK3588 USB camera index (e.g., 0, 1, or 21 if that's correct)
-CAIYUN_API_TOKEN = ""  # 彩云天气API Token，这里我隐去了
+CAIYUN_API_TOKEN = ""  # 彩云天气API Token，这里我隐去了，禁止白嫖
 NANJING_LOCATION = "118.7674,32.0415"     # 南京市经纬度 (大约值，彩云API接受经纬度)
 
 WEATHER_DATA_EXPIRY_HOURS = 24 # 数据有效期（小时）
